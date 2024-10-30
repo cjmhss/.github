@@ -38,10 +38,10 @@ Stay updated on our upcoming events by following us on our social media channels
 
 We’d love to hear from you! Reach out to us through the following channels:
 
-- **Email**: [your-organization-email@example.com](mailto:your-organization-email@example.com)
-- **Instagram**: [@YourOrgInstagram](https://instagram.com/YourOrgInstagram)
-- **Twitter**: [@YourOrgTwitter](https://twitter.com/YourOrgTwitter)
-- **LinkedIn**: [Your Organization on LinkedIn](https://linkedin.com/in/YourOrgLinkedIn)
+- <img align=center width="15" height="15" src="https://img.icons8.com/material-rounded/FFFFFF/new-post.png" alt="new-post"/> **Email:** ****
+- <img align=center width="16" height="16" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> <a href=https://www.linkedin.com/in/anton-j-678b302b5/ >**LinkedIn**</a>
+- <img align=center width="16" height="16" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/> <a href=https://instagram.com/_.celestial_spirit._>**Instagram**</a>
+- <img align=top width="16" height="16" src="https://img.icons8.com/sf-black/FFFFFF/github.png" alt="github"/> <a href=https://github.com/antonjijo>**Github**</a>
 
 
 
