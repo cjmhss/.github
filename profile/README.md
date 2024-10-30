@@ -13,7 +13,7 @@
 
 ## 🚀 Projects
 
-1. <strong><a href="" style="text-decoration: none; color: inherit;">Voice Recognition</a></strong>
+1. <strong><a href="" style="text-decoration: none; color: white;">Voice Recognition</a></strong>
 
 
 ## 📖 About us 
