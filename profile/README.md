@@ -36,7 +36,7 @@ Stay updated on our upcoming events by following us on our social media channels
 
 ## 📜 License
 
-This repository is licensed under the [MIT License](SECURITY.md).
+This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
