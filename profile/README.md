@@ -13,7 +13,7 @@
 
 ## 🚀 Projects
 
-1. **Voice Recognition** (https://github.com)
+1. **Voice Recognition**  ( https://github.com/cjmhss/CJMHSS-Voice-Recognition.git )
 
 
 ## 📖 About us 
