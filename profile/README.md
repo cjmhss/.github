@@ -59,6 +59,6 @@ We’d love to hear from you! Reach out to us through the following channels:
 
 ## 🤝 Contributers
 
-- antonjijo (https://github.com/antonjijo)
+- **antonjijo** ( https://github.com/antonjijo )
 
 
