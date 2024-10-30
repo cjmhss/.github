@@ -34,6 +34,13 @@ All the Events are hosted in our Media Platforms.
 Stay updated on our upcoming events by following us on our social media channels or subscribing to our newsletter!
 
 
+## 📜 License
+
+This repository is licensed under the [MIT License](./LICENSE).
+
+---
+
+
 ## 🌐 Connect with Us
 
 We’d love to hear from you! Reach out to us through the following channels:
