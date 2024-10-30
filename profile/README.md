@@ -34,6 +34,16 @@ All the Events are hosted in our Media Platforms.
 Stay updated on our upcoming events by following us on our social media channels or subscribing to our newsletter!
 
 
+## 🌐 Connect with Us
+
+We’d love to hear from you! Reach out to us through the following channels:
+
+- **Email**: [your-organization-email@example.com](mailto:your-organization-email@example.com)
+- **Instagram**: [@YourOrgInstagram](https://instagram.com/YourOrgInstagram)
+- **Twitter**: [@YourOrgTwitter](https://twitter.com/YourOrgTwitter)
+- **LinkedIn**: [Your Organization on LinkedIn](https://linkedin.com/in/YourOrgLinkedIn)
+
+
 
 ## 📖 About us 
 <p>Child Jesus Matric Hr. Sec. School Unnamalaikadai is committed to the Pursuit of excellence in teaching and learning. We ardently believe that education is a process and not a product Individual difference are fostered in a caring environment and the students are encouraged to enjoy the world wide range of intellectual, cultural, sporting and social Opportunities offered by the school. One of the mission statements of the school is that a rigorous academic program would be ensured, couple with a rich repertoire of Co-Curricular and extra-Curricular activities, allowing latent talents to bloom in a nurturing, non- threatening environment. We believe we offer an excellent model of education one that others will seek to emulate.</p>
