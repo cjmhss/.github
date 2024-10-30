@@ -30,6 +30,7 @@ We regularly host events, workshops, and seminars to enhance learning and provid
 
 Stay updated on our upcoming events by following us on our social media channels or subscribing to our newsletter!
 
+All the Events are hosted in our Media Platforms.
 
 
 
