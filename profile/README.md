@@ -3,6 +3,4 @@
 
 <hr>
 
-<center>## Our Motto 
-<p>Lead Kindly Light</p>
-</center>
+<center><h3> Lead Kindly Light </h3></center>
