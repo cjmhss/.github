@@ -41,7 +41,7 @@ We’d love to hear from you! Reach out to us through the following channels:
 - <img align=center width="15" height="15" src="https://img.icons8.com/material-rounded/FFFFFF/new-post.png" alt="new-post"/> **Email:** **childjesus1985@gmail.com**
 - <img align=center width="16" height="16" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/> <a href=https://www.instagram.com/cjmhssofficial/>**Instagram**</a>
 - <img width="16" height="16" src="https://img.icons8.com/fluency/16/facebook-new.png" alt="facebook-new"/> <a href=https://m.facebook.com/childjesusmatricschoolunnamalaikadai/>**Facebook**</a>
-- <img width="16" height="16" src="https://img.icons8.com/metro/16/phone.png" alt="phone"/> **Phone** [Call](tel:04651-271598)
+- <img width="16" height="16" src="https://img.icons8.com/metro/16/phone.png" alt="phone"/> **Phone** ( 04651-271598 / 9600385243 )
 
 - <img align=top width="16" height="16" src="https://img.icons8.com/sf-black/FFFFFF/github.png" alt="github"/> <a href=https://github.com/cjmhss>**Github**</a>
 
