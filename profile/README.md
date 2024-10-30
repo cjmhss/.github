@@ -15,7 +15,22 @@
 
 1. **Voice Recognition**  ( https://github.com/cjmhss/CJMHSS-Voice-Recognition.git )
 
-<strong>More Projects commited soon</strong>
+<strong>More Projects commited soon...</strong>
+
+
+
+## 🗓 Events & Activities
+
+We regularly host events, workshops, and seminars to enhance learning and provide hands-on experience in Educating Students. Some of our notable events include:
+
+- **School Day 2024**
+- **Sports Club**
+- **Awareness Programs**
+- **Knowledge Programs**
+
+Stay updated on our upcoming events by following us on our social media channels or subscribing to our newsletter!
+
+
 
 
 ## 📖 About us 
