@@ -13,7 +13,7 @@
 
 ## 🚀 Projects
 
-1. <strong><a href="" style="text-decoration: none; color: white;">Voice Recognition</a></strong>
+1. **Voice Recognition** (https://github.com)
 
 
 ## 📖 About us 
