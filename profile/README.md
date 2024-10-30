@@ -15,7 +15,7 @@
 
 1. **Voice Recognition**  ( https://github.com/cjmhss/CJMHSS-Voice-Recognition.git )
 
-<strong align="center">More Projects commited soon</strong>
+<strong>More Projects commited soon</strong>
 
 
 ## 📖 About us 
