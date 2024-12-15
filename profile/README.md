@@ -57,8 +57,5 @@ We’d love to hear from you! Reach out to us through the following channels:
 - <img width="16" height="16" src="https://img.icons8.com/metro/FFFFFF/phone.png" alt="phone"/> **Phone** ( 04651-271598 / 9600385243 )
 - <img align=center width="17" height="17" src="https://img.icons8.com/sf-black/FFFFFF/github.png" alt="github"/> <a href=https://github.com/cjmhss text-decoration="none">**Github**</a>
 
-## 🤝 Contributers
-
-- **antonjijo** ( https://github.com/antonjijo )
 
 
